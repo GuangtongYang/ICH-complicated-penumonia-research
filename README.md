@@ -1,0 +1,2 @@
+# ICH-complicated-penumonia-research
+To study the distribution characteristics of cerebral hemorrhage and its relationship with the development of pneumonia, we proposed medical image registration and matched the patient brain CT and brain anatomical partition MRI. Subsequently, we obtained the bleeding distribution characteristics, combined them with the blood volume characteristics, and trained three traditional machine learning models based on the brain CT, to effectively predict the severity in patients with pulmonary infection.
